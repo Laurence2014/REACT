@@ -1,4 +1,4 @@
-import react from 'react'
+import React from 'react'
 
 //function Greet (){
 //    return <h1>hello vishwas</h1>
